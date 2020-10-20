@@ -1,3 +1,5 @@
+[![Gitpod ready-to-code](https://img.shields.io/badge/Gitpod-ready--to--code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/mraible/21-points)
+
 # 21-Points Health
 [![Build Status][travis-image]][travis-url] [![devDependencies Status][daviddm-image]][daviddm-url] [![sonar-quality-gate][sonar-quality-gate]][sonar-url]
 > To track your health and improve your life. 😊
